@@ -12,5 +12,6 @@ Edit Stream-- To edit the stream.
 O_Auth component.-- This component will provide authorization to the user.
 
 The directory structure will be as per following cofigurations.:
+![Capture222](https://user-images.githubusercontent.com/47113617/59662200-15ff8780-91ca-11e9-89a2-2df84c7cffc2.JPG)
  
 
