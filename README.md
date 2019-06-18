@@ -2,6 +2,12 @@
 This is a streaming webiste that has multiple different components that display user's favourite stream  amongst different streams available.
 Users can change and edit the listed streams as per own need. The streams available can be edited or deleted. Everthing will be as per user's personalized experience. 
 
+There development process is carried out in 3 parts: developing a client side, developing a server and middleware server.
+
+The client folder has code for displaying the interface of the client side.
+
+
+The following are the components of the client side. 
 Index page component shows a list of component available. Show stream component displays the current streaming video video components.
 
 Will create the following components.
